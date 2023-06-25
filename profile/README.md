@@ -7,7 +7,7 @@ Who do I mean when I talk about these kinds of overlays?
 - [Russian osu! Cup 2022](https://www.twitch.tv/videos/1625212582)
 - [Indonesia Convert Cup Open 2022](https://www.twitch.tv/videos/1649711958)
 - [Masters Open CIS Tournament 2023](https://www.twitch.tv/videos/1800907815)
-- [Play-Osu.RU CIS Team League 2023](https://www.twitch.tv/videos/1819817588)
+- [Play-Osu.RU CIS Team League 2023](https://www.youtube.com/watch?v=ziejcCAM-C8)
 
 Interested? If you want a similar overlay, we can make it for you!<br/>
 *How do I contact us to negotiate a price and what will be required?*<br/><br/>
