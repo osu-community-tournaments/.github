@@ -9,6 +9,8 @@ Who do I mean when I talk about these kinds of overlays?
 - [Masters Open CIS Tournament 2023](https://www.twitch.tv/videos/1800907815)
 - [Play-Osu.RU CIS Team League 2023](https://www.youtube.com/watch?v=ziejcCAM-C8)
 - [CLICK THE CIRCLES! Tournament: Iteration V](https://www.twitch.tv/videos/1860566835)
+- [Pettan osu! Tournament '23](https://www.twitch.tv/videos/1865652464)
+- [Gasha cup 3](https://www.twitch.tv/videos/1866656604)
 
 Interested? If you want a similar overlay, we can make it for you!<br/>
 *How do I contact us to negotiate a price and what will be required?*<br/><br/>
