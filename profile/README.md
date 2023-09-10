@@ -15,7 +15,7 @@ Who do I mean when I talk about these kinds of overlays?
 
 Interested? If you want a similar overlay, we can make it for you!<br/>
 *How do I contact us to negotiate a price and what will be required?*<br/><br/>
-### For now, the only way is to add `crIDax#2328` to discord indicating that you want to order the overlay
+### For now, the only way is to add `cridax` to discord indicating that you want to order the overlay
 \
 What do we use under the hood?\
 To pull data from the osu! - [gosumemory](https://github.com/l3lackShark/gosumemory)\
