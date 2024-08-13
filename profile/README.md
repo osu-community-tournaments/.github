@@ -29,5 +29,5 @@ Interested? If you want a similar overlay, we can make it for you!<br/>
 ### For now, the only way is to add `cridax` to discord indicating that you want to order the overlay
 \
 What do we use under the hood?\
-To pull data from the osu! - [gosumemory](https://github.com/l3lackShark/gosumemory)\
+To pull data from the osu! - [tosu](https://github.com/KotRikD/tosu)\
 For data visualisation - [React](https://github.com/Facebook/react)
