@@ -21,7 +21,7 @@ Who do I mean when I talk about these kinds of overlays?
 - [CLICK THE CIRCLES! Iteration 6 (remake of CTC:V)](https://www.twitch.tv/videos/2152189557)
 - [Play-Osu.RU X Project 4K Tournament](https://www.youtube.com/watch?v=sHrrqdeSN_c)
 - [Russian Provincial Cup 2024](https://www.twitch.tv/videos/2173009100)
-- [moscow osu! event 2024](https://www.twitch.tv/videos/2209403525) (from 55:00)
+- [moscow osu! event 2024](https://www.youtube.com/watch?v=rb1lYdiG_N0&t=18168s)
 
 
 Interested? If you want a similar overlay, we can make it for you!<br/>
