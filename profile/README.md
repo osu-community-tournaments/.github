@@ -4,7 +4,7 @@ Hi, welcome to the osu project org! Community Tournaments. Here we create cool o
 
 Who do I mean when I talk about these kinds of overlays?
 - [4 Digit Catch World Cup 2022](https://www.twitch.tv/videos/1587766984)
-- [Russian osu! Cup 2022](https://www.twitch.tv/videos/1625212582)
+- [#russian osu! Cup 2022/2023/2024](https://www.twitch.tv/videos/1625212582)
 - [Indonesia Convert Cup Open 2022](https://www.twitch.tv/videos/1649711958)
 - [Masters Open CIS Tournament 2023](https://www.twitch.tv/videos/1800907815)
 - [Play-Osu.RU CIS Team League 2023](https://www.youtube.com/watch?v=ziejcCAM-C8)
